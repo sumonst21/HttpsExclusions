@@ -970,6 +970,7 @@ hallertauer-volksbank.de
 haltdalensparebank.no
 halykpay.kz
 hamburger-volksbank.de
+hanabank.com
 handelsbanken.se
 handybank.ru
 hangseng.com
@@ -1023,6 +1024,7 @@ hsbc.com.tr
 hsbc.com.tw
 hsbc.com.vn
 hsbc.fr
+hsbc.lk
 hsbcnet.com
 hsbcprivatebank.com
 hua215.com.tw
@@ -2223,6 +2225,8 @@ quantaprevidencia.com.br
 questrade.com
 quick.bankvl.ru
 quik.psbank.ru
+quirinprivatbank.de
+quirion.de
 qweb.quercia.com
 r-volksbank.de
 rabobank.co.nz
